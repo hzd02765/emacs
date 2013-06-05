@@ -1,3 +1,4 @@
-emacsの設定ファイル
+### emacsの設定ファイル
 
-path: ~/.emacs.d/
+   cd ~
+   git clone git@github.com:hzd02765/emacs.git ~/.emacs.d
