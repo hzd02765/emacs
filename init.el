@@ -26,6 +26,6 @@
 (setq make-backup-files nil)
 ;;; .#* とかのバックアップファイルを作らない
 (setq auto-save-default nil)
-;;; 行番号を表示
-(global-linum-mode t)
+;;; 行番号の表示
+(global-linum-mode 1)
 (setq linum-format "%4d ")
